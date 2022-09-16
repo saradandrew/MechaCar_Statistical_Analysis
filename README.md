@@ -13,3 +13,5 @@ The linear model predicts the mpg MechaCar prototypes effectively because it giv
 
 <img width="594" alt="Screen Shot 2022-09-16 at 12 11 00 PM" src="https://user-images.githubusercontent.com/107032720/190693853-1f714309-88c0-49e2-92bb-500b1398af89.png">
 
+
+<img width="337" alt="Screen Shot 2022-09-16 at 1 40 35 PM" src="https://user-images.githubusercontent.com/107032720/190709334-c0bfd2ff-225e-4a76-bff3-193b55a027e8.png">
