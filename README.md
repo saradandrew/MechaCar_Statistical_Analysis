@@ -29,12 +29,15 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <img width="491" alt="Screen Shot 2022-09-16 at 1 41 34 PM" src="https://user-images.githubusercontent.com/107032720/190709537-f4047eae-7b47-4a61-8ece-a486af42d697.png">
 
 ## T-Tests on Suspension Coils
-
+The following image shows the results of the T-Test of the PSI across all manufacturing lots.
 <img width="489" alt="Screen Shot 2022-09-22 at 9 04 03 PM" src="https://user-images.githubusercontent.com/107032720/191880035-5f14e562-184e-4ee5-b019-c959d036ac4b.png">
 
+The following image shows the results of the T-Test of the PSI for Lot 1.
 <img width="461" alt="Screen Shot 2022-09-22 at 8 57 14 PM" src="https://user-images.githubusercontent.com/107032720/191879497-9ce461dc-5483-4e0e-909a-6288e61fd0b8.png">
 
+The following image shows the results of the T-Test of the PSI for Lot 2.
 <img width="487" alt="Screen Shot 2022-09-22 at 8 54 39 PM" src="https://user-images.githubusercontent.com/107032720/191879738-80581d49-a2b5-4132-ba41-051c19396870.png">
 
+The following image shows the results of the T-Test of the PSI for Lot 3.
 <img width="451" alt="Screen Shot 2022-09-22 at 8 55 12 PM" src="https://user-images.githubusercontent.com/107032720/191879645-eeb5e37d-c408-4387-ab79-efd441c42fca.png">
 
