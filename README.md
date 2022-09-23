@@ -42,3 +42,11 @@ The following image shows the results of the T-Test of the PSI for Lot 3.
 <img width="451" alt="Screen Shot 2022-09-22 at 8 55 12 PM" src="https://user-images.githubusercontent.com/107032720/191879645-eeb5e37d-c408-4387-ab79-efd441c42fca.png">
 
 All of the above T-Test show a p-value of greater than 0.05, meaning the PSI of each lot is not significantly different from the population mean of 1,500 pounds per square inch.
+
+## Study Design: MechaCar vs Competition
+
+A metric that would be of interest to a consumer would be MPG/fuel efficiency. This is an important component to consumers since it indicates how much money they would need to regularly contribute to the vehicle. AWD is also important for consumers with deeper knowledge of car technology and a need for better tire traction.
+
+A statistical study I would utilize to quantify how MechaCar performs against the competition is an ANOVA test because ANOVA tests categorical data types. ANOVA also tests more than one independent variable, a continuous dependent variable, and questions if there is a difference between multiple samples which is necessary when comparing MechaCar against multiple competitors. I would need MPG and AWD data of MechaCar vehicles as well as their competitors in order to run an ANOVA test.
+
+The metrics I would measure would be fuel efficiency and tire performance. Null hypothesis: MechaCar manufactured vehicles' tire performance is 5x better than competing vehicles, and their MPG is 3x higher than competitors. Alternative hypothesis: Mechacar manufactured vehicles' tire performance is not 5x better than competitors, and their MPG is not 3x higher than the competition. 
