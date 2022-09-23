@@ -6,7 +6,7 @@ Vehicle length and ground clearance, as well as the intercept, provide a non-ran
 
 The slope of the linear model is not considered to be zero because there are several variables, and the residual standard of error is ~8.8 on 44 degrees of freedom.
 
-The linear model predicts the mpg MechaCar prototypes effectively because it gives insight to how significant vehicle length and ground clearance is to mpg.
+The linear model predicts the mpg of MechaCar prototypes effectively because it gives insight to how significant vehicle length and ground clearance is to mpg.
 
 <img width="594" alt="Screen Shot 2022-09-16 at 12 11 00 PM" src="https://user-images.githubusercontent.com/107032720/190693853-1f714309-88c0-49e2-92bb-500b1398af89.png">
 
@@ -46,7 +46,7 @@ All of the above T-Test show a p-value of greater than 0.05, meaning the PSI of 
 
 ## Study Design: MechaCar vs Competition
 
-A metric that would be of interest to a consumer would be MPG/fuel efficiency. This is an important component to consumers since it indicates how much money they would need to regularly contribute to the vehicle. AWD is also important for consumers with deeper knowledge of car technology and a need for better tire traction.
+A metric that would be of interest to a consumer would be MPG/fuel efficiency. This is an important component to consumers since it indicates how much money they would need to regularly contribute to the vehicle. AWD is also important for consumers with deeper knowledge of car performance and a need for better tire traction.
 
 A statistical study I would utilize to quantify how MechaCar performs against the competition is an ANOVA test because ANOVA tests categorical data types. ANOVA also tests more than one independent variable, a continuous dependent variable, and questions if there is a difference between multiple samples which is necessary when comparing MechaCar against multiple competitors. I would need MPG and AWD data of MechaCar vehicles as well as their competitors in order to run an ANOVA test.
 
