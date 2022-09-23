@@ -41,3 +41,4 @@ The following image shows the results of the T-Test of the PSI for Lot 2.
 The following image shows the results of the T-Test of the PSI for Lot 3.
 <img width="451" alt="Screen Shot 2022-09-22 at 8 55 12 PM" src="https://user-images.githubusercontent.com/107032720/191879645-eeb5e37d-c408-4387-ab79-efd441c42fca.png">
 
+All of the above T-Test show a p-value of greater than 0.05, meaning the PSI of each lot is not significantly different from the population mean of 1,500 pounds per square inch.
