@@ -1,5 +1,4 @@
-# MechaCar_Statistical_Analysis
-MechaCar Statistical Analysis
+# MechaCar Statistical Analysis
 
 ## Linear Regression to Predict MPG
 Vehicle length and ground clearance, as well as the intercept, provide a non-random amount of variance to the MPG values in the dataset.
